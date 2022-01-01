@@ -1,0 +1,5 @@
+git init
+git add Third.txt
+git commint -m " adding third.txt "                                   
+git remote add Origin https://github.com/ghariani98 
+git Push -u Origin master 
